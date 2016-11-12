@@ -1,0 +1,14 @@
+body{ margin: 0 auto;
+width: 840px;}
+
+.center-div{ margin: 0 auto;
+width: 840px;}
+
+.menu-item{float: right;}
+
+.logo{margin: 5px;}
+ul {list-style-type: none;}
+
+li {display: inline-block;}
+
+
